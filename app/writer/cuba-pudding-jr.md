@@ -4,4 +4,4 @@
 
 Recipe Picks:
 
-- January: [Cuba Pudding](../recipe/jan/cuba-pudding.md)
+- January: [Grilled Peach Salad](../recipe/jan/grilled-peach-salad.md)
